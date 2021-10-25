@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NikaNikky/hexlet-js/issues"
   },
-  "homepage": "https://github.com/NikaNikky/hexlet-js#readme"
+  "homepage": "https://github.com/NikaNikky/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
